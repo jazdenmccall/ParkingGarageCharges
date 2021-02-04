@@ -1,0 +1,13 @@
+C:\Users\Jazden McCall\source\repos\ParkingGarageCharges\ParkingGarageCharges\bin\Debug\netcoreapp3.1\ParkingGarageCharges.exe
+C:\Users\Jazden McCall\source\repos\ParkingGarageCharges\ParkingGarageCharges\bin\Debug\netcoreapp3.1\ParkingGarageCharges.deps.json
+C:\Users\Jazden McCall\source\repos\ParkingGarageCharges\ParkingGarageCharges\bin\Debug\netcoreapp3.1\ParkingGarageCharges.runtimeconfig.json
+C:\Users\Jazden McCall\source\repos\ParkingGarageCharges\ParkingGarageCharges\bin\Debug\netcoreapp3.1\ParkingGarageCharges.runtimeconfig.dev.json
+C:\Users\Jazden McCall\source\repos\ParkingGarageCharges\ParkingGarageCharges\bin\Debug\netcoreapp3.1\ParkingGarageCharges.dll
+C:\Users\Jazden McCall\source\repos\ParkingGarageCharges\ParkingGarageCharges\bin\Debug\netcoreapp3.1\ParkingGarageCharges.pdb
+C:\Users\Jazden McCall\source\repos\ParkingGarageCharges\ParkingGarageCharges\obj\Debug\netcoreapp3.1\ParkingGarageCharges.csprojAssemblyReference.cache
+C:\Users\Jazden McCall\source\repos\ParkingGarageCharges\ParkingGarageCharges\obj\Debug\netcoreapp3.1\ParkingGarageCharges.AssemblyInfoInputs.cache
+C:\Users\Jazden McCall\source\repos\ParkingGarageCharges\ParkingGarageCharges\obj\Debug\netcoreapp3.1\ParkingGarageCharges.AssemblyInfo.cs
+C:\Users\Jazden McCall\source\repos\ParkingGarageCharges\ParkingGarageCharges\obj\Debug\netcoreapp3.1\ParkingGarageCharges.csproj.CoreCompileInputs.cache
+C:\Users\Jazden McCall\source\repos\ParkingGarageCharges\ParkingGarageCharges\obj\Debug\netcoreapp3.1\ParkingGarageCharges.dll
+C:\Users\Jazden McCall\source\repos\ParkingGarageCharges\ParkingGarageCharges\obj\Debug\netcoreapp3.1\ParkingGarageCharges.pdb
+C:\Users\Jazden McCall\source\repos\ParkingGarageCharges\ParkingGarageCharges\obj\Debug\netcoreapp3.1\ParkingGarageCharges.genruntimeconfig.cache
